@@ -1,0 +1,12 @@
+- Folder solidity contains a Hardhat project to compile and test Smart Contracts
+- Folder api contains node.js api
+- Folder UX contains a very simple React UX
+
+- How to install
+- Clone the repo
+- install dependencies
+-
+- cd api
+- npx ts-node src/app.ts  to run API
+- cd ux
+- npm start to run testing UX
